@@ -80,7 +80,7 @@ GAN helped the model learn more distinctive helicopter features.
 - Scikit-learn  
 
 ---
-## Project Structure## Project Structure
+## Project Structure
 
 ```text
 airborne-object-detection/
