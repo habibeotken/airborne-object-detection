@@ -98,6 +98,7 @@ airborne-object-detection/
 
 
 ---
+```
 
 ## Conclusion
 
@@ -105,3 +106,4 @@ GAN-based data augmentation proved effective in improving the classification of 
 
 The model showed better generalization and reduced confusion with similar classes.
 
+---
