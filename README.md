@@ -61,6 +61,18 @@ The main goal is to:
 | Misclassification (→ Airplane) | High | Reduced |
 
 ---
+##  Confusion Matrix Comparison
+
+###  Baseline Model
+
+<img width="637" height="676" alt="Ekran görüntüsü 2026-05-02 150903" src="https://github.com/user-attachments/assets/644d9549-3592-4f62-9c3b-984422e6c4d7" />
+
+
+---
+
+###  GAN-Augmented Model
+<img width="641" height="509" alt="Ekran görüntüsü 2026-05-02 190351" src="https://github.com/user-attachments/assets/ddc9ad16-50b9-4092-b059-ed49d4343368" />
+
 
 ###  Key Improvement
 
