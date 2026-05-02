@@ -81,8 +81,7 @@ GAN helped the model learn more distinctive helicopter features.
 
 ---
 ## Project Structure
-'''
-airborne-object-detection/
+'''airborne-object-detection/
 │
 ├── dataset/ # Original dataset
 ├── dataset_augmented/ # GAN augmented dataset
